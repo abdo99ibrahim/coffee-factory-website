@@ -24,7 +24,7 @@ body{
 }
 @media (min-width:991px) {
     .login{
-        width: 30% !important;
+        width: 40% !important;
         }
 }
 .login h1{
